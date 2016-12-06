@@ -11,4 +11,4 @@ $pod install
 Open myconnect.xcworkspace in XCode.
 
 
-
+Please check myconnect-app.pptx for more details.
